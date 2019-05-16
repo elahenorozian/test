@@ -1,0 +1,4 @@
+public static void hello()
+{
+system.out.print("hell");
+}
